@@ -49,5 +49,7 @@ namespace DigitalOceanDropletTests
             Assert.AreEqual(droplet.size, "s-1vcpu-1gb");
             Assert.AreEqual(droplet.image, "ubuntu-16-04-x64");
         }
+
+        //this is a comment
     }
 }
